@@ -61,7 +61,7 @@ namespace Demo
             manager.AddEmployee(new Tester { FirstName = "Bharath", LastName = "Moppuri" });
 
             manager.AddEmployee(new Developer { FirstName = "Narasimha", LastName = "K" });
-            manager.AddEmployee(new Tester { FirstName = "Sujana", LastName = "Mannam" });
+            manager.AddEmployee(new Tester { FirstName = "kiran", LastName = "Mannam" });
            
             manager.Print();
         }
